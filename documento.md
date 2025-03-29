@@ -1,5 +1,8 @@
 Sistema de Localização de Pontos de Coleta e Descarte
 
+
+![Diagram de projeto](image.png)
+
 Visão Geral
 
 Objetivo
